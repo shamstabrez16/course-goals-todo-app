@@ -1,6 +1,6 @@
 # course-goals-todo-app
 
-##to Style React components 
+## to Style React components 
 ![image](https://github.com/shamstabrez16/course-goals-todo-app/assets/12733189/3750f0a0-fd41-49ea-8900-fb7d71b4379f)
 
 
